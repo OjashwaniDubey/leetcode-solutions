@@ -31,3 +31,15 @@ https://leetcode.com/u/ojashwanidubey/
 ## Notes
 - Solutions are uploaded automatically using LeetHub
 - Code is written with readability and optimization in mind
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+<!---LeetCode Topics End-->
