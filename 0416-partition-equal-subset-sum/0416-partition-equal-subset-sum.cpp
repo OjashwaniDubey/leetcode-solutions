@@ -15,7 +15,7 @@ public:
         if(nums[index] <= target){
             take = f(nums, index-1, target-nums[index], dp);
         }
-        return dp[index][target] = take | notTake;
+        return dp[index][target] = take || notTake;
     }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
