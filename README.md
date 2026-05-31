@@ -38,6 +38,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0120-triangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0120-triangle) |
+| [0322-coin-change](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0062-unique-paths](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0120-triangle) |
+| [0322-coin-change](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 ## Matrix
@@ -59,4 +61,8 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
