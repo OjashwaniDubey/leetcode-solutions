@@ -20,7 +20,7 @@ public:
     }
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
+        vector<vector<int>> dp(n, vector<int>(amount+1, -1));
         int combinations = f(n-1, amount, coins, dp);
         return combinations;
     }
