@@ -47,6 +47,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0322-coin-change) |
@@ -62,6 +63,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -78,4 +80,8 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
