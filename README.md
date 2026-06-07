@@ -48,6 +48,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0518-coin-change-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3840-house-robber-v](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3840-house-robber-v) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -149,4 +151,9 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Hash Table
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
