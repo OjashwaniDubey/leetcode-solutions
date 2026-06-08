@@ -57,6 +57,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -132,6 +133,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -168,4 +170,12 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
