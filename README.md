@@ -39,6 +39,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0322-coin-change) |
@@ -64,6 +65,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0072-edit-distance](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0322-coin-change) |
