@@ -11,10 +11,15 @@ public:
         int n = nums.size();
         int mx = *max_element(nums.begin(), nums.end());
         vector<int> values(mx+1, 0);
-        vector<int>dp(mx+1, -1);
+        vector<int>dp(mx+1, 0);
         for(int x : nums){
             values[x] += x;
         }
-        return f(mx, values, dp);
+        dp[0] = 0;
+        if(mx >= 1) dp[1] = values[1];
+        for(int i = 2; i <= mx; i++){
+            dp[i] = max(values[i]+dp[i-2], dp[i-1]);
+        }
+        return dp[mx];
     }
 };
