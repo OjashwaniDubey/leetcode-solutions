@@ -63,6 +63,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3840-house-robber-v](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3840-house-robber-v) |
 ## Dynamic Programming
 |  |
@@ -162,6 +163,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0583-delete-operation-for-two-strings](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3838-weighted-word-mapping](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
