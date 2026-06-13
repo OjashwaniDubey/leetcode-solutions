@@ -161,6 +161,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0072-edit-distance](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1092-shortest-common-supersequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1678-goal-parser-interpretation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -192,6 +193,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
