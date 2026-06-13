@@ -58,6 +58,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [1035-uncrossed-lines](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
+| [1528-shuffle-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [2140-solving-questions-with-brainpower](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -164,6 +165,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1092-shortest-common-supersequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1528-shuffle-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [3838-weighted-word-mapping](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
