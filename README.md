@@ -125,6 +125,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -172,6 +173,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
@@ -217,4 +219,8 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
