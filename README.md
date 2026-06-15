@@ -38,6 +38,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
