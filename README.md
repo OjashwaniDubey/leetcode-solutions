@@ -52,6 +52,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -94,6 +95,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -223,6 +225,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0044-wildcard-matching](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -236,6 +239,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Linked List
