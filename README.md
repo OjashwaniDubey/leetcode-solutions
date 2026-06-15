@@ -180,6 +180,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
@@ -232,5 +233,6 @@ https://leetcode.com/u/ojashwanidubey/
 ## Linked List
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
