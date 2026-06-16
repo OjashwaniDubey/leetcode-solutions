@@ -57,6 +57,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0435-non-overlapping-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -249,6 +250,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0506-relative-ranks](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -257,4 +259,8 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
