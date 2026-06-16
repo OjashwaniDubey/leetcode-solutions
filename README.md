@@ -64,6 +64,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [1035-uncrossed-lines](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1035-uncrossed-lines) |
+| [1046-last-stone-weight](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
@@ -263,4 +264,5 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
