@@ -64,6 +64,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1035-uncrossed-lines](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
@@ -130,6 +131,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0062-unique-paths](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -258,6 +260,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## Linked List
@@ -271,6 +274,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Design
 |  |
@@ -288,6 +292,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -300,4 +305,9 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
