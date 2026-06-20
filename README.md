@@ -76,6 +76,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1732-find-the-highest-altitude](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2140-solving-questions-with-brainpower](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -140,6 +141,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
 ## Combinatorics
 |  |
 | ------- |
@@ -277,6 +279,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
 ## Linked List
 |  |
 | ------- |
