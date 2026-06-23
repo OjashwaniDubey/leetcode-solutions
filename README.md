@@ -129,6 +129,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3840-house-robber-v](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3840-house-robber-v) |
 ## Matrix
 |  |
@@ -220,6 +221,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Tree
 |  |
 | ------- |
