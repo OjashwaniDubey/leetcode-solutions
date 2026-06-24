@@ -132,6 +132,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3840-house-robber-v](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3840-house-robber-v) |
 ## Matrix
 |  |
@@ -147,6 +148,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Combinatorics
 |  |
 | ------- |
