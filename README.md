@@ -86,6 +86,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [2574-left-and-right-sum-differences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3840-house-robber-v](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3840-house-robber-v) |
 ## Dynamic Programming
@@ -228,6 +229,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [2574-left-and-right-sum-differences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -253,6 +255,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -328,6 +331,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0912-sort-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -356,6 +360,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -366,6 +371,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0912-sort-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Radix Sort
 |  |
 | ------- |
