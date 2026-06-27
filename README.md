@@ -84,6 +84,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [2161-partition-array-according-to-given-pivot](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -254,6 +255,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Simulation
@@ -376,4 +378,8 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
