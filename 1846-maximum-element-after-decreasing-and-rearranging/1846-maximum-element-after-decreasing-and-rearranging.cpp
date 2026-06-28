@@ -3,10 +3,10 @@ public:
     int maximumElementAfterDecrementingAndRearranging(vector<int>& arr) {
         int n = arr.size();
         sort(arr.begin(), arr.end());
-        int cur = 1;
+        arr[0] = 1;
         for(int i = 1; i < n; i++){
-            cur = min(arr[i], cur+1);
+            arr[i] = min(arr[i], arr[i-1]+1);
         }
-        return cur;
+        return arr.back();
     }
 };
