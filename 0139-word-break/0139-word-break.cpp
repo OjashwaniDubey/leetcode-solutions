@@ -22,12 +22,13 @@ public:
     bool wordBreak(string s, vector<string>& wordDict) {
         int n = s.size();
         vector<int>dp(n+1, 0);
+        unordered_set<string>st(wordDict.begin(), wordDict.end());
         dp[n] = true;
         for(int idx = n-1; idx >= 0; idx--){
             string temp = "";
             for(int j = idx; j < n; j++){
                 temp += s[j];
-                if(matchDict(temp, wordDict)){
+                if(st.count(temp)){
                     if(dp[j+1]){
                         dp[idx] = true;
                         break;
