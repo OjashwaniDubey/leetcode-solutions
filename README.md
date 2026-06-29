@@ -44,6 +44,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -106,6 +107,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -177,6 +179,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -207,6 +210,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0044-wildcard-matching](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -255,6 +259,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -389,4 +394,8 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
