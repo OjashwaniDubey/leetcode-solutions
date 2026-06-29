@@ -11,7 +11,6 @@ public:
         if(idx == n) return true;
         if(dp[idx] != -1) return dp[idx];
         string temp = "";
-        bool possible = false;
         for(int j = idx; j < n; j++){
             temp += s[j];
             if(matchDict(temp, wordDict)){
@@ -22,7 +21,18 @@ public:
     }
     bool wordBreak(string s, vector<string>& wordDict) {
         int n = s.size();
-        vector<int>dp(n, -1);
-        return f(0, s, wordDict, dp);
+        vector<int>dp(n+1, 0);
+        dp[n] = true;
+        for(int idx = n-1; idx >= 0; idx--){
+            dp[idx] = false;
+            string temp = "";
+            for(int j = idx; j < n; j++){
+                temp += s[j];
+                if(matchDict(temp, wordDict)){
+                    if(dp[j+1]) dp[idx] = true;
+                }
+            }
+        }
+        return dp[0];
     }
 };
