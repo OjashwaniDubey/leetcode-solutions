@@ -24,12 +24,14 @@ public:
         vector<int>dp(n+1, 0);
         dp[n] = true;
         for(int idx = n-1; idx >= 0; idx--){
-            dp[idx] = false;
             string temp = "";
             for(int j = idx; j < n; j++){
                 temp += s[j];
                 if(matchDict(temp, wordDict)){
-                    if(dp[j+1]) dp[idx] = true;
+                    if(dp[j+1]){
+                        dp[idx] = true;
+                        break;
+                    }
                 }
             }
         }
