@@ -196,6 +196,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Rolling Hash
@@ -217,6 +218,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0880-decoded-string-at-index](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0880-decoded-string-at-index) |
@@ -234,6 +236,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0567-permutation-in-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -269,6 +272,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
