@@ -195,6 +195,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Rolling Hash
@@ -214,6 +215,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0072-edit-distance](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -266,6 +268,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0003-longest-substring-without-repeating-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
