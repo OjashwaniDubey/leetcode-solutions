@@ -3,6 +3,7 @@ public:
     bool checkInclusion(string s1, string s2) {
         int n = s1.size();
         int m = s2.size();
+        if(n > m) return false;
         int left = 0;
         vector<int>freq1(26, 0);
         vector<int>freq2(26, 0);
