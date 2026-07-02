@@ -32,8 +32,6 @@ public:
                 }
             }
         }
-        if(dist[n-1][m-1] == INT_MAX) return false;
-        else if(health - dist[n-1][m-1] >= 1) return true;
-        return false;
+        return dist[n-1][m-1] < health;
     }
 };
