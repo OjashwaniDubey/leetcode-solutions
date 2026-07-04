@@ -173,6 +173,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0322-coin-change) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
@@ -277,6 +278,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,10 +437,12 @@ https://leetcode.com/u/ojashwanidubey/
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
