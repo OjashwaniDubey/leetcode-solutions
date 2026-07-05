@@ -26,9 +26,37 @@ public:
     }
     vector<int> pathsWithMaxScore(vector<string>& board) {
         int n = board.size();
-        vector<vector<pair<int, int>>> dp(n, vector<pair<int, int>>(n, {-1, -1}));
-        auto ans = f(0, 0, board, dp);
-        if(ans.first < 0) return {0,0};
-        return {ans.first, ans.second};
+        const int N = -1e9;
+        const int MOD = 1e9 + 7;
+        vector<vector<pair<int, int>>> dp(n+1, vector<pair<int, int>>(n+1, {N, 0}));
+        dp[n-1][n-1] = {0, 1};
+        for(int i = n-1; i >= 0; i--){
+            for(int j = n-1; j >= 0; j--){
+                if(board[i][j] == 'X') continue;
+                if(board[i][j] == 'S') continue;
+                auto down = dp[i+1][j];
+                auto right = dp[i][j+1];
+                auto diag = dp[i+1][j+1];
+                int best = max({down.first, right.first, diag.first});
+                if(best == N){
+                    dp[i][j] = {N, 0};
+                    continue;
+                }
+                long long ways = 0;
+                if(best == down.first) ways += down.second;
+                if(best == right.first) ways += right.second;
+                if(best == diag.first) ways += diag.second;
+                ways %= MOD;
+                int val = 0;
+                if(board[i][j] != 'E'){
+                val = board[i][j]-'0';
+              }
+            dp[i][j] = {best+val, (int)ways};
+            }
+        }
+        if(dp[0][0].first < 0){
+            return {0,0};
+        }
+        return {dp[0][0].first, dp[0][0].second};
     }
 };
