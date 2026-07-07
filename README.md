@@ -168,6 +168,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1344-angle-between-hands-of-a-clock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
 | ------- |
