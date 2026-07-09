@@ -74,6 +74,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0912-sort-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1035-uncrossed-lines](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
@@ -158,6 +159,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -184,6 +186,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
