@@ -97,6 +97,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -150,6 +151,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -221,6 +223,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
@@ -275,6 +278,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -342,6 +346,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Recursion
 |  |
@@ -366,6 +371,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1833-maximum-ice-cream-bars](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -468,6 +474,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -478,4 +485,8 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
