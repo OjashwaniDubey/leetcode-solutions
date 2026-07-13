@@ -172,6 +172,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
