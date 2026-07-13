@@ -305,6 +305,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -469,6 +470,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 ## Union-Find
 |  |
 | ------- |
