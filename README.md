@@ -39,6 +39,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0056-merge-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -169,6 +170,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -238,6 +240,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
