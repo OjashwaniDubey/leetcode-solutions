@@ -80,6 +80,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1035-uncrossed-lines](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -172,6 +173,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -362,6 +364,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
