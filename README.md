@@ -309,6 +309,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -432,6 +433,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1833-maximum-ice-cream-bars](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -509,6 +511,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0912-sort-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
