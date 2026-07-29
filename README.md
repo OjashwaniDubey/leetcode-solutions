@@ -37,6 +37,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -251,6 +252,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -423,6 +425,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
