@@ -68,6 +68,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0416-partition-equal-subset-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -155,6 +156,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0377-combination-sum-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -201,6 +203,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0070-climbing-stairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -438,6 +441,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -622,4 +626,8 @@ https://leetcode.com/u/ojashwanidubey/
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
