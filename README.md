@@ -81,6 +81,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0877-stone-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -166,6 +167,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0877-stone-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
@@ -205,6 +207,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -630,4 +633,5 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
