@@ -92,6 +92,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1288-remove-covered-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -174,6 +175,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1092-shortest-common-supersequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -212,6 +214,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0877-stone-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1690-stone-game-vii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -637,5 +640,6 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1690-stone-game-vii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1690-stone-game-vii) |
 <!---LeetCode Topics End-->
