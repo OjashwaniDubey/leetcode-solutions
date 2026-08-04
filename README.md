@@ -37,6 +37,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -394,6 +395,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
