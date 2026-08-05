@@ -18,9 +18,6 @@ public:
             adj[v].push_back(u);
         }
         dfs(source, adj, vis);
-        for(int i = 0; i < n; i++){
-            if(vis[i] == 0 && i == destination) return false;
-        }
-        return true;
+        return vis[destination];
     }
 };
