@@ -244,6 +244,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -385,6 +386,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -611,6 +613,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -619,6 +622,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
