@@ -7,7 +7,7 @@ public:
         vector<int>freq(128, 0);
         for(int right = 0; right < n; right++){
             freq[s[right]]++;
-            while(freq[s[right]] == 2){
+            while(freq[s[right]] >= 2){
                 freq[s[left]]--;
                 left++;
             }
