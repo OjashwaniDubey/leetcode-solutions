@@ -119,6 +119,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -316,6 +317,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0713-subarray-product-less-than-k](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -441,6 +443,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1636-sort-array-by-increasing-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
