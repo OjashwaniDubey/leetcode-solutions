@@ -101,6 +101,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1310-xor-queries-of-a-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -232,6 +233,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1140-stone-game-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -395,6 +397,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0713-subarray-product-less-than-k](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -451,6 +454,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -688,6 +692,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
