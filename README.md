@@ -48,6 +48,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -680,6 +681,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
