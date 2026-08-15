@@ -108,6 +108,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1636-sort-array-by-increasing-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1690-stone-game-vii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1690-stone-game-vii) |
+| [1720-decode-xored-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -684,6 +685,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0136-single-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1720-decode-xored-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
