@@ -328,6 +328,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
@@ -364,6 +365,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -459,6 +461,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -601,6 +604,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0451-sort-characters-by-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
