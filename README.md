@@ -100,6 +100,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1301-number-of-paths-with-max-score](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1310-xor-queries-of-a-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
@@ -467,6 +468,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -506,6 +508,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -711,6 +714,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1386-cinema-seat-allocation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
