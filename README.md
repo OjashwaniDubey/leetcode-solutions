@@ -132,6 +132,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -246,6 +247,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [2029-stone-game-ix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -263,6 +265,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Breadth-First Search
@@ -315,6 +318,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -719,6 +723,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1386-cinema-seat-allocation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1720-decode-xored-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -726,6 +731,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
