@@ -232,6 +232,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0070-climbing-stairs](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0400-nth-digit](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0877-stone-game) |
@@ -315,6 +316,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0400-nth-digit](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0713-subarray-product-less-than-k](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
