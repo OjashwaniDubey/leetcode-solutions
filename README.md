@@ -244,6 +244,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1510-stone-game-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -381,6 +382,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1528-shuffle-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -521,6 +523,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -749,6 +752,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
