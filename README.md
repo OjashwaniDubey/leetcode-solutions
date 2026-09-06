@@ -193,6 +193,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0368-largest-divisible-subset](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -392,6 +393,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0115-distinct-subsequences](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
+| [0392-is-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -436,6 +438,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
