@@ -338,6 +338,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0047-permutations-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0494-target-sum) |
+| [1079-letter-tile-possibilities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -410,6 +411,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0880-decoded-string-at-index](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0880-decoded-string-at-index) |
 | [0940-distinct-subsequences-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1079-letter-tile-possibilities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -522,6 +524,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0771-jewels-and-stones](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1079-letter-tile-possibilities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -682,6 +685,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0451-sort-characters-by-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1079-letter-tile-possibilities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
