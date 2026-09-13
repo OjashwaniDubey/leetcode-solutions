@@ -89,6 +89,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0724-find-pivot-index](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0835-image-overlap](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -240,6 +241,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
