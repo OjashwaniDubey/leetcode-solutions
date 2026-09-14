@@ -263,6 +263,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0400-nth-digit](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -710,6 +711,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
