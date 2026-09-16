@@ -1,22 +1,44 @@
-const int MOD = 1000000007;
-
 class Solution {
 public:
+    static const long long MOD = 1e9 + 7;
+
+    long long modPow(long long a, long long e) {
+        long long ans = 1;
+
+        while (e > 0) {
+            if (e & 1)
+                ans = ans * a % MOD;
+
+            a = a * a % MOD;
+            e >>= 1;
+        }
+
+        return ans;
+    }
+
     int numberOfSets(int n, int k) {
-        vector<int> dp(n), prefixSums(n + 1);
-        for (int j = 0; j < n; j++) {
-            dp[j] = 1;
-            prefixSums[j + 1] = (prefixSums[j] + dp[j]) % MOD;
+        int N = n + k - 1;
+
+        vector<long long> fact(N + 1);
+        vector<long long> invFact(N + 1);
+
+        fact[0] = 1;
+
+        for (int i = 1; i <= N; i++) {
+            fact[i] = fact[i - 1] * i % MOD;
         }
-        for (int i = 1; i <= k; i++) {
-            dp[0] = 0;
-            for (int j = 1; j < n; j++) {
-                dp[j] = (dp[j - 1] + prefixSums[j]) % MOD;
-            }
-            for (int j = 0; j < n; j++) {
-                prefixSums[j + 1] = (prefixSums[j] + dp[j]) % MOD;
-            }
+
+        invFact[N] = modPow(fact[N], MOD - 2);
+
+        for (int i = N; i >= 1; i--) {
+            invFact[i - 1] = invFact[i] * i % MOD;
         }
-        return dp[n - 1];
+
+        long long ans = fact[N];
+
+        ans = ans * invFact[2 * k] % MOD;
+        ans = ans * invFact[N - 2 * k] % MOD;
+
+        return ans;
     }
 };
