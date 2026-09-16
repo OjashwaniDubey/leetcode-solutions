@@ -221,6 +221,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1690-stone-game-vii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -272,6 +273,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -303,6 +305,7 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -476,6 +479,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1310-xor-queries-of-a-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
