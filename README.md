@@ -110,6 +110,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -219,6 +220,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -362,6 +364,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0400-nth-digit](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0713-subarray-product-less-than-k](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -385,6 +388,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0904-fruit-into-baskets](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -545,6 +549,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
