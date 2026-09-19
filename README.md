@@ -272,6 +272,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1510-stone-game-iv) |
@@ -730,6 +731,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0836-rectangle-overlap](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Binary Indexed Tree
 |  |
 | ------- |
