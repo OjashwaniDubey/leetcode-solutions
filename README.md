@@ -78,6 +78,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0494-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -485,6 +486,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -544,6 +546,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0438-find-all-anagrams-in-a-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
