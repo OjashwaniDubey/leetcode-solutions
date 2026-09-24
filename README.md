@@ -57,6 +57,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0200-number-of-islands](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -544,6 +545,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0076-minimum-window-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0139-word-break) |
+| [0229-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -640,6 +642,7 @@ https://leetcode.com/u/ojashwanidubey/
 | ------- |
 | [0047-permutations-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
@@ -726,6 +729,7 @@ https://leetcode.com/u/ojashwanidubey/
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -894,4 +898,8 @@ https://leetcode.com/u/ojashwanidubey/
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
