@@ -329,6 +329,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0733-flood-fill](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -343,6 +344,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0085-maximal-rectangle](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0880-decoded-string-at-index](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0880-decoded-string-at-index) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -361,6 +363,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0090-subsets-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0494-target-sum) |
 | [1079-letter-tile-possibilities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -442,6 +445,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [1079-letter-tile-possibilities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -564,6 +568,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0930-binary-subarrays-with-sum](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -660,6 +665,7 @@ https://leetcode.com/u/ojashwanidubey/
 | [0912-sort-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OjashwaniDubey/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
